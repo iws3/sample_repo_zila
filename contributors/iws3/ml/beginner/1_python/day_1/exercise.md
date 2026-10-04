@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-Exercise completed for 1_python Day 1
+done for today
 
 ---
 
 ## 2. Theory & Practical Implementation
-Practical code and exercises implemented in contributors directory.
+i am done
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-None reported.
+thank you
 
 ---
 
