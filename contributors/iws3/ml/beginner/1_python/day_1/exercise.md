@@ -11,12 +11,12 @@
 ---
 
 ## 1. Exercise Summary
-done for today
+done with python
 
 ---
 
 ## 2. Theory & Practical Implementation
-i am done
+done for real
 
 ---
 
