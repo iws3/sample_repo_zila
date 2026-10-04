@@ -1,0 +1,10 @@
+# Relative weight of each day. Final score is normalised to 100.
+# Total weight = 8  ->  day1 = 12.5, day2 = 12.5, day3 = 25, day4 = 50
+max_mark_per_day: 10        # tutor marks each day out of 10
+weights:
+  day_1: 1
+  day_2: 1
+  day_3: 2
+  day_4: 4
+rules:
+  max_prs_per_day: 2        # target is 1; hard limit is 2
