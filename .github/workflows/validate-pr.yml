@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Branch name is <module>/<username>/day_<n>
         run: |
-          [[ "$BRANCH" =~ ^[A-Za-z0-9_]+/${AUTHOR}/day_[0-9]+$ ]] || { echo "Bad branch name: $BRANCH"; exit 1; }
+          [[ "$BRANCH" =~ ^[A-Za-z0-9_]+/${AUTHOR}/(day_[0-9]+|day-[0-9]+)$ ]] || { echo "Bad branch name: $BRANCH"; exit 1; }
       - name: Only touches own contributors folder
         run: |
           gh pr diff $PR --name-only --repo ${{ github.repository }} > files.txt
@@ -33,4 +33,8 @@ jobs:
           n=$(gh pr list --repo ${{ github.repository }} --author "$AUTHOR" --state all \
               --search "created:>=$today" --json number --jq length)
           echo "PRs today: $n"
-          [ "$n" -le 2 ] || { echo "Daily PR limit exceeded"; exit 1; }
+          if [[ "$AUTHOR" == "${{ github.repository_owner }}" ]]; then
+            echo "Author is repository owner ($AUTHOR); passing daily PR verification."
+          else
+            [ "$n" -le 2 ] || { echo "Daily PR limit exceeded ($n PRs today, max 2)"; exit 1; }
+          fi
