@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-done for today task
+worked on the first 2 exercises and also deployed on my github repo
 
 ---
 
 ## 2. Theory & Practical Implementation
-submitted
+did the python functions and dictionaries
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-thank you
+was facing issue with .get method for getting dictinary elements
 
 ---
 
