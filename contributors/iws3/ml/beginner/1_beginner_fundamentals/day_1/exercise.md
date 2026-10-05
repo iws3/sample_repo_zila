@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-done with the introduction to python exercise
+done for today task
 
 ---
 
 ## 2. Theory & Practical Implementation
-i created the file adn put some code inside
+submitted
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-dificulties understandinglooping
+thank you
 
 ---
 
