@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-worked on the first 2 exercises and also deployed on my github repo
+done with introduction to python 1
 
 ---
 
 ## 2. Theory & Practical Implementation
-did the python functions and dictionaries
+done my python excercise
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-was facing issue with .get method for getting dictinary elements
+not understand function calling
 
 ---
 
