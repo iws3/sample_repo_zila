@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-done with the first exercise in looping
+done withn exercises on looping through dictionaries
 
 ---
 
 ## 2. Theory & Practical Implementation
-done with the looping practicals
+covered everything as far as dictionary method is concer
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-had no challenge at all
+i had no challenges for now
 
 ---
 
