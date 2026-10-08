@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-submittting to see if points increments and checking status
+testing points incrementation
 
 ---
 
 ## 2. Theory & Practical Implementation
-checking status
+done and want to tes the point incrementing
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-it depends
+I Had no challenges at all
 
 ---
 
