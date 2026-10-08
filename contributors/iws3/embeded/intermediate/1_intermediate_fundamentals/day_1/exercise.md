@@ -5,23 +5,23 @@
 - **Curriculum Domain:** EMBEDED
 - **Cohort Track Level:** INTERMEDIATE
 - **Curriculum Module:** 1_intermediate_fundamentals
-- **Submission Date:** 2026-10-07
+- **Submission Date:** 2026-10-08
 - **Git Branch:** `1_intermediate_fundamentals/iws3/day_1`
 
 ---
 
 ## 1. Exercise Summary
-explored intermediate fundamentals
+submittting to see if points increments and checking status
 
 ---
 
 ## 2. Theory & Practical Implementation
-worked on my won exercises
+checking status
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-had a bit of challenges
+it depends
 
 ---
 
