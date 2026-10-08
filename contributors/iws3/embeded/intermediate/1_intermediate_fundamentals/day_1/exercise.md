@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-testing points incrementation
+testing again
 
 ---
 
 ## 2. Theory & Practical Implementation
-done and want to tes the point incrementing
+testing again
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-I Had no challenges at all
+hello there
 
 ---
 
