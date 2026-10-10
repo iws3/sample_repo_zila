@@ -5,23 +5,23 @@
 - **Curriculum Domain:** ML
 - **Cohort Track Level:** INTERMEDIATE
 - **Curriculum Module:** 1_intermediate_fundamentals
-- **Submission Date:** 2026-10-07
+- **Submission Date:** 2026-10-10
 - **Git Branch:** `1_intermediate_fundamentals/iws3/day_1`
 
 ---
 
 ## 1. Exercise Summary
-done withn exercises on looping through dictionaries
+work sorting list items inn python
 
 ---
 
 ## 2. Theory & Practical Implementation
-covered everything as far as dictionary method is concer
+i sorted list items in python and also learn how they are stored in the memory
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-i had no challenges for now
+no challenge at alll
 
 ---
 
