@@ -11,17 +11,17 @@
 ---
 
 ## 1. Exercise Summary
-done with the introduction to python exercise
+done with introduction to python 1
 
 ---
 
 ## 2. Theory & Practical Implementation
-i created the file adn put some code inside
+done my python excercise
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-dificulties understandinglooping
+not understand function calling
 
 ---
 
