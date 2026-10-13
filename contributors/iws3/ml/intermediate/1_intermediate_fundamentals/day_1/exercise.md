@@ -5,23 +5,23 @@
 - **Curriculum Domain:** ML
 - **Cohort Track Level:** INTERMEDIATE
 - **Curriculum Module:** 1_intermediate_fundamentals
-- **Submission Date:** 2026-10-10
+- **Submission Date:** 2026-10-13
 - **Git Branch:** `1_intermediate_fundamentals/iws3/day_1`
 
 ---
 
 ## 1. Exercise Summary
-work sorting list items inn python
+just finished with bringing an llm in
 
 ---
 
 ## 2. Theory & Practical Implementation
-i sorted list items in python and also learn how they are stored in the memory
+context aware engineering and token maxim and also .. worked on what reaches the model, should be really what the models wants
 
 ---
 
 ## 3. Challenges & Roadblocks Encountered
-no challenge at alll
+drafting a simple understadable technical documents
 
 ---
 
